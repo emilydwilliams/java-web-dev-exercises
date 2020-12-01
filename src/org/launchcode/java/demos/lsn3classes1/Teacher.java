@@ -32,7 +32,7 @@ public class Teacher {
     }
 
     public int getYearsTeaching() {
-        return yearsTeaching
+        return yearsTeaching;
     }
 
     public void setYearsTeaching(int aYearsTeaching) {
